@@ -1,1 +1,1 @@
-# bobal-study
+# Algorithm-study
